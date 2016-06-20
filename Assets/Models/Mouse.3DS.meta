@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 464264860c78d2840aef495a80c6ddbe
+timeCreated: 1466297779
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Logitech_0
+    100002: Logitech_1
+    100004: Logitech_2
+    100006: Logitech_3
+    100008: Logitech_4
+    100010: Logitech_5
+    100012: Logitech_6
+    100014: Logitech_7
+    100016: Logitech_8
+    100018: Logitech_9
+    100020: Logitech_r
+    100022: //RootNode
+    400000: Logitech_0
+    400002: Logitech_1
+    400004: Logitech_2
+    400006: Logitech_3
+    400008: Logitech_4
+    400010: Logitech_5
+    400012: Logitech_6
+    400014: Logitech_7
+    400016: Logitech_8
+    400018: Logitech_9
+    400020: Logitech_r
+    400022: //RootNode
+    2300000: Logitech_0
+    2300002: Logitech_1
+    2300004: Logitech_2
+    2300006: Logitech_3
+    2300008: Logitech_4
+    2300010: Logitech_5
+    2300012: Logitech_6
+    2300014: Logitech_7
+    2300016: Logitech_8
+    2300018: Logitech_9
+    3300000: Logitech_0
+    3300002: Logitech_1
+    3300004: Logitech_2
+    3300006: Logitech_3
+    3300008: Logitech_4
+    3300010: Logitech_5
+    3300012: Logitech_6
+    3300014: Logitech_7
+    3300016: Logitech_8
+    3300018: Logitech_9
+    4300000: Logitech_0
+    4300002: Logitech_1
+    4300004: Logitech_2
+    4300006: Logitech_3
+    4300008: Logitech_4
+    4300010: Logitech_5
+    4300012: Logitech_6
+    4300014: Logitech_7
+    4300016: Logitech_8
+    4300018: Logitech_9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0065
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
